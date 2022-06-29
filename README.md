@@ -1,2 +1,3 @@
 # hello-world
-Prueba inicial de Github
+Esta es una prueba inicial de Github
+... con Branches (rename-edits)
